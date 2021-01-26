@@ -1,4 +1,4 @@
-package com.qa.runnerexample;
+package comm.qa.runnerexample;
 
 public class Person {
 	

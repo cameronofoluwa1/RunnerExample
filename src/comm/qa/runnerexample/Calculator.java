@@ -1,4 +1,4 @@
-package com.qa.runnerexample;
+package comm.qa.runnerexample;
 
 import java.util.Scanner;
 
