@@ -22,7 +22,7 @@ public class Person {
 	public String getJob() {return this.job;	}
 	
 	public String toString() {
-		String toString = "First name: " + getFName() + "\nLast name: " + getLName() + "\nJob name: " + getJob();
+		String toString = "FIRST NAME = " + getFName() + ", LAST NAME = " + getLName() + ", JOB TYPE =  " + getJob();
 		return toString;
 	}
 }
