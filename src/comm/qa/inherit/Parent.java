@@ -1,6 +1,6 @@
 package comm.qa.inherit;
 
-public class Parent {
+public class Parent extends GranParent {
 
 	private String eyeColour;
 	
